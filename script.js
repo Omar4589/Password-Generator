@@ -13,7 +13,7 @@ function generatePassword() {
 
   while (isNaN(passwordLength) || passwordLength < 8 || passwordLength > 128) {
     passwordLength = parseInt(
-      prompt("Invalid input. Please enter a number between 8 and 128.")
+      prompt("Invalid input. Please enter a numeric value between 8 and 128.")
     );
   }
 
