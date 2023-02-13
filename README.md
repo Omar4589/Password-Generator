@@ -1,4 +1,4 @@
-# Password-Generator
+# Password Generator
 
 ## Description
 
@@ -10,15 +10,16 @@ https://omar4589.github.io/Password-Generator/
 
 ## Usage
 
-Struggling to come up with a strong and secure password?  
+Struggling to come up with a strong and secure password?
+
 Click the "Generate Password" button to generate a random password.
 
 After you click the button, you will be prompted with a couple of questions:  
- 1. "How many characters should your password include?" Enter a number between 8 and 128 using numeric values.  
- 2."Include lowercase letters in the password?" Click "OK" for YES & "Cancel" for NO.  
- 3."Include uppercase letters in the password?" Click "OK" for YES & "Cancel" for NO.  
- 3."Include numbers in the password?" Click "OK" for YES & "Cancel" for NO.  
- 4."Include special characters in the password?" Click "OK" for YES & "Cancel" for NO.
+ 1."How many characters should your password include?" Enter a number between 8 and 128 using numeric values.  
+ 2."Include lowercase letters in the password?" - Click "OK" for Yes & "Cancel" for No.  
+ 3."Include uppercase letters in the password?" - Click "OK" for Yes & "Cancel" for No.  
+ 3."Include numbers in the password?" - Click "OK" for Yes & "Cancel" for No.  
+ 4."Include special characters in the password?" - Click "OK" for Yes & "Cancel" for No.
 
 A password will be generated after the password criteria is chosen.  
 _If invalid inputs are entered, you will be alerted & asked to try again._
@@ -26,9 +27,9 @@ _If invalid inputs are entered, you will be alerted & asked to try again._
 ## Screenshot
 
 <img src="./password-generator.png">  
-  
+    
 ## License
-  
+   
 MIT License
 
 Copyright (c) 2022 Omar4589
