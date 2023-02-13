@@ -26,7 +26,7 @@ _If invalid inputs are entered, you will be alerted & asked to try again._
 
 ## Screenshot
 
-<img src="./password-generator.png">  
+<img src="./assets/password-generator.png">  
     
 ## License
    
